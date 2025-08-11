@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jedavy.n@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aaq4SmC5zkuR37eP2IfhMPL_rJYVALAY/view?usp=sharing](https://drive.google.com/file/d/1aaq4SmC5zkuR37eP2IfhMPL_rJYVALAY/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-mCqZQHvI7jehkNZGv-TNDwxuN_1qmsB/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nizigama&label=Profile%20views&color=0e75b6&style=flat" alt="nizigama" /> </p>
